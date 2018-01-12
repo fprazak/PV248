@@ -1,0 +1,4821 @@
+﻿Print Number: 1
+Composer: Weber, Carl Maria
+Title: Concerto for bassoon and orchestra op. 75
+Genre: solo concerto
+Key: Bes
+Composition Year: 
+Publication Year:
+Edition: modern
+Editor:
+Voice 1: Bes1--d2, bassoon, part
+Partiture: no
+Incipit: treble 4/4 f'2 c8. a16 f8. a16 |
+
+Print Number: 3
+Composer: Elgar, Edward
+Title: Romance for bassoon and piano op. 62 (to Mr. Edwin F. James)
+Genre:
+Key: d
+Composition Year:
+Publication Year:
+Edition: modern
+Editor:
+Voice 1: B1--bes1, bassoon, part
+Partiture: no
+Incipit: treble 4/4 gis8 a8 f'8 f,8 dis8 e8 bes'8 cis,8 |
+
+Print Number: 4
+Composer: Dvarionas, B.
+Title: Thema with variations for bassoon and piano 
+Genre: 
+Key: a
+Composition Year:
+Publication Year:
+Edition: modern
+Editor:
+Voice 1: B1--e2, bassoon, part
+Partiture: no
+Incipit: bass 4/4 e8 | c'8 b8 a8 b8 c8 a8 b8 c16 b16 |
+
+Print Number: 5
+Composer: Flament, Edouard 
+Title: Paraphrase à Schéhérazade d'aprés N. Rimsky Korsakov, for bassoon and piano
+Genre:
+Key: b
+Composition Year:
+Publication Year: 1921
+Edition: Evette & Schaeffer
+Editor:
+Voice 1: C--b1, bassoon, part
+Partiture: no
+Incipit: treble 6/8 b4. fis4. |
+
+Print Number: 6
+Composer: Oromszegi, Ottó
+Title: Ten Modern Etudes for Bassoon
+Genre: etudes
+Key:
+Composition Year:
+Publication Year: 1962
+Edition: Editio Musica Budapest
+Editor:
+Voice 1: Bes1--d2
+Partiture: no
+Incipit: bass 7/16  c8 d16 e16 fis16 gis16 ais16 |
+
+Print Number: 7
+Composer: Haydn, Joseph (1732--1809); Mozart, Wolfgang Amadeus (1756--1791)
+Title: Orchester Studies for bassoon, volume 1
+Genre: orchester studies
+Key:
+Composition Year:
+Publication Year: 1955
+Edition: Hofmeister, Leipzig
+Editor: Georg Junge
+Voice 1: bassoon, part
+Partiture: no
+Incipit:
+
+Print Number: 8
+Composer: Beethoven, Ludwig van (1770--1827)
+Title: Orchester Studies for bassoon, volume 2
+Genre: orchester studies
+Key:
+Composition Year:
+Publication Year: 1954
+Edition: Hofmeister, Leipzig
+Editor: Georg Junge
+Voice 1: bassoon, part
+Partiture: no
+Incipit:
+
+Print Number: 10
+Composer: Donizetti, Gaetano (1797--1848); Lortzing, A. (1801--1851); Nicolai, O. (1810--1849); Verdi, Giuseppe (1813--1901)
+Title: Orchester Studies for bassoon, volume 4
+Genre: orchester studies
+Key:
+Composition Year:
+Publication Year: 1955
+Edition: Hofmeister, Leipzig
+Editor: Georg Junge
+Voice 1: bassoon, part
+Partiture: no
+Incipit:
+
+Print Number: 11
+Composer: Bruns, Victor
+Title: Second Concerto for bassoon and orchester op. 15
+Genre: solo concerto
+Key: 
+Composition Year:
+Publication Year:
+Edition: Hofmeister, Leipzig
+Editor: 
+Voice 1: piano reduction, part
+Partiture: no
+Incipit: treble 4/4 g'8 | g16 e16 c8 cis2 |
+
+Print Number: 13
+Composer: Hlobil, Emil (1901--)
+Title: Divertimento for bassoon and piano, op. 29
+Genre:
+Key: Es
+Composition Year: 1948
+Publication Year: 1953
+Edition: Státní nakladatelství, Praha
+Editor:
+Voice 1: Des--b1, bassoon, part 
+Voice 2: piano, part
+Partiture: no
+Incipit: treble 4/4 bes4 bes8. fes'16 bes4. r8 |
+
+Print Number: 14
+Composer: Stolte, Siegfried (1953--)
+Title: Spielmusik for bassoon and piano
+Genre:
+Key: F
+Composition Year:
+Publication Year: 1958
+Edition: Peters, Leipzig
+Editor:
+Voice 1: C--c2, bassoon, part
+Voice 2: piano, part
+Partiture: no
+Incipit: bass 6/8 f8 r8 g8 c4. |
+
+Print Number: 16
+Composer: Morigi, Angelo
+Title: Duo for oboe and bassoon
+Genre: duo
+Key: Bes
+Composition Year:
+Publication Year: 1981 
+Edition: Nova Music, London
+Editor:
+Voice 1: c1--c3, oboe
+Voice 2: D--g1, bassoon
+Partiture: yes
+Incipit: treble 4/4 bes8 | f'8 d32 bes32 f'32 d32 bes'16 f16 d16 b16 g'8 f8 r16 bes,16 c16 d16 es16 f16 | 
+
+Print Number: 17
+Composer: Bartoš, J. Z.
+Title: Dvouhlasé invence for oboe and bassoon
+Genre: duo
+Key: g; C; d; d
+Composition Year:
+Publication Year: 1972
+Edition: manuscript
+Editor: Josef Rotter
+Voice 1: c1--d3, cis, oboe
+Voice 2: D--f1
+Partiture: yes 
+Incipit: treble 3/4 a8 d,8 d'4. c8 |
+
+Print Number: 18
+Composer: Svoboda, Tomas
+Title: Unexpected Insert for 2 bassoons
+Genre: duo
+Key: 
+Composition Year: 1999
+Publication Year: 
+Edition: modern
+Editor:
+Voice 1: Bes--b1, bassoon
+Voice 2: Bes1--a1, bassoon
+Partiture: yes 
+Incipit: bass 2/4 e'8 e8 d8 cis16 b16 |
+
+Print Number: 20
+Composer: Weissenborn, Julius
+Title: Capriccio for bassoon and piano, op. 14
+Genre: 
+Key: C
+Composition Year:
+Publication Year: 
+Edition: Hofmeister, Leipzig
+Editor:
+Voice 1: C--a1, bassoon, part
+Voice 2: piano, part
+Partiture: no
+Incipit: bass 3/4 r4 g'8 f8 e8 d8 | c4 g4 e'4 | 
+
+Print Number: 21
+Composer: Schaffrath, Christoph (1709--1763)
+Title: Sonata for oboe and continuo
+Genre: 
+Key: d 
+Composition Year:
+Publication Year: 1978
+Edition: Heinrichshofen, Amsterdam
+Editor: 
+Voice 1: d1--bes2, oboe, part (last page missing, handwritten copy)
+Voice 2: cello 
+Partiture: yes 
+Incipit: treble 4/4 a'8 | f8. e16 d16 e8 cis8 d8 a8 r8 g'8 |
+
+Print Number: 22
+Composer: Telemann, Georg Philip
+Title: Partia 4 and 5 for treble voice and continuo (from Kleine Cammer-Music)
+Genre: 
+Key: g; e
+Composition Year: 
+Publication Year: 1716/1728
+Edition: facsimile
+Editor:
+Voice 1: d1--bes2, treble 
+Voice 2: continuo, numbered bass
+Partiture: yes
+Incipit: treble 3/4 r4 g4 es'4 | d4 fis4 g | cis,4 d8 c8 bes8 a8 |
+Incipit 2: treble 4/4 r8 e8 e8 e8 fis8 fis16 g16 a8 fis8 | g8 b8 e'2 dis4 |
+
+Print Number: 23
+Composer: Barret
+Title: 2 Sonatas for oboe and continuo from Oboe Method
+Genre: 
+Key: C; G; Es 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: (b)c1--e3, oboe
+Voice 2: continuo, bass not-numbered
+Partiture: yes
+Incipit: treble 4/4 e'4. f8 g8 e8 c8 a'8 |
+
+Print Number: 24
+Composer: Garnier, Joseph-François (1755--1825)
+Title: 6 Sonatas for oboe and continuo 
+Genre: 
+Key: C; g/G; D/d; F; A/a; e/E
+Composition Year:
+Publication Year: 
+Edition: facsimile
+Editor:
+Voice 1: c1--d3; oboe
+Voice 2: continuo, bass not-numbered
+Partiture: yes
+Incipit: treble 3/8 e'8 e8 d8 | c8 b8 c8 |
+
+Print Number: 25
+Composer: Telemann, Georg Philipp
+Title: 12 Fantasias for transverse flute without bass
+Genre: solo
+Key: A; a; b; Bes; C; d; D; e; E; fis; G; g
+Composition Year:
+Publication Year: 1955
+Edition: Bärenreiter
+Editor: Günter Hausswald
+Voice 1: d1--e3, flute, part
+Voice 2: foreword by Barthold Kuijken 
+Partiture: no
+Incipit: treble 4/4 a8~a16 b16 a16 e16 a16 cis16 a16 e16 a16 b16 a16 e16 |
+
+Print Number: 26
+Composer: Bach, Carl Philip Emanuel
+Title: Sonata for oboe and continuo (Hoboe Solo)
+Genre: 
+Key: g
+Composition Year:
+Publication Year: 
+Edition: manuscript 
+Editor:
+Voice 1: d1--d3, oboe 
+Voice 2: continuo, bass not-numbered
+Partiture: yes
+Incipit: treble 4/4 d'8 | bes'8 fis,8 g4~g8 b8 c4 |
+
+Print Number: 27
+Composer: Castrucci, Pietro
+Title: Sonata I for treble voice and continuo
+Genre: 
+Key: G
+Composition Year:
+Publication Year: 
+Edition: facsimile 
+Editor:
+Voice 1: d1--d3, treble
+Voice 2: continuo, numbered bass
+Partiture: yes
+Incipit: treble 4/4 d'8 b16. a32 g8 g'8 e8 d8 r8 g16 e16 |
+
+Print Number: 28
+Composer: Vincent, Thomas
+Title: Sonata II for treble voice and continuo
+Genre: oboe and continuo 
+Key: a
+Composition Year:
+Publication Year: 
+Edition: facsimile
+Editor:
+Voice 1: c1--c3, treble
+Voice 2: continuo, numbered bass
+Partiture: yes
+Incipit: treble 4/4 e'8 | c8 a8 a8 a8 a16 gis16 a8 r8 a8 |
+
+Print Number: 29
+Composer: Sammartini, Giuseppe
+Title: 2 Sonatas (no. 4 and 5) op. XIII for treble voice and continuo
+Genre: 
+Key: g; G
+Composition Year:
+Publication Year: 
+Edition: facsimile
+Editor:
+Voice 1: d1--b2, treble
+Voice 2: continuo, numbered bass
+Partiture: yes
+Incipit: treble 12/8 d'4. d8. g16 d16 e4. e8. g16 e8 |
+Incipit 2: treble 4/4 r8 d'8 es4 r8 cis8 d4 |
+
+Print Number: 30
+Composer: Telemann, Georg Philip
+Title: Sonata for violin or oboe and continuo (from Music Meisters)
+Genre: 
+Key: g
+Composition Year:
+Publication Year: 
+Edition: facsimile 
+Editor: Georg Philip Telemann
+Voice 1: d1--bes2, oboe/violin
+Voice 2: continuo, numbered bass
+Partiture: yes
+Incipit: treble 4/4 g'4. g16 fis16 d8. g16 bes,8. d16 |
+
+Print Number: 31
+Composer: Besozzi, Alessandro
+Title: Sonata for oboe and continuo
+Genre: 
+Key: F
+Composition Year:
+Publication Year: 2003 
+Edition: Musica Storica
+Editor: Henrik Boggild (bass realisation)
+Voice 1: d1--c3, oboe, part
+Voice 2: continuo, realised bass 
+Partiture: no
+Incipit: treble 2/4 f16 | c'4 g4 | a8 d16 bes16 c16 a16 bes16 g16 |
+
+Print Number: 32
+Composer: Vivaldi, Antonio
+Title: Sonata for oboe and continuo
+Genre: oboe and continuo 
+Key: c
+Composition Year:
+Publication Year: 
+Edition: manuscript
+Editor:
+Voice 1: es1--c3, oboe
+Voice 2: continuo, bass not-numbered
+Partiture: yes
+Incipit: treble 4/4 r2 g'8. f16 es8 d16 c16 | b4. g8 g'8 b,16 c16 as'8 c,8 |
+
+Print Number: 33
+Composer: Platti, Giovanni Benedetto
+Title: Sonata for oboe and continuo
+Genre: oboe and continuo
+Key: c
+Composition Year:
+Publication Year: 
+Edition: manuscript 
+Editor:
+Voice 1: d1--c3
+Voice 2: continuo, bass not-numbered
+Partiture: yes
+Incipit: treble 4/4 g'8 | es8 b8 c16 g16 as'16 c16 c8 b8 r16 g'16 as16 bes16 |
+
+Print Number: 34
+Composer: Telemann, Georg Philip (1681--1767)
+Title: Sonata for oboe and continuo TWV41:B6 (from Essercizii Musici as Solo 5)
+Genre: 
+Key: Bes
+Composition Year:
+Publication Year: 
+Edition: modern russian after Schott's (1969) 
+Editor: 
+Voice 1: f1--bes2, oboe, part
+Partiture: no 
+Incipit: treble 4/4 d'4~d16 es16 f16 d16 bes16 a16 a8 r4 |
+
+Print Number: 35
+Composer: Telemann, Georg Philip (1681--1767)
+Title: Sonata for oboe and continuo (from Tafelmusik 3/5)
+Genre: 
+Key: g
+Composition Year: 1733
+Publication Year: 
+Edition: Breitkopf
+Editor: Max Seiffert
+Voice 1: fis1--bes2, oboe, part
+Partiture: yes (incomplete)
+Incipit: treble 12/8 r4 g8 d2. c4 a8 | fis4. r4 g8 c8. d16 es8 d4 c8 |
+
+Print Number: 36
+Composer: Händel, Georg Friedrich
+Title: Sonata VIII for oboe and continuo
+Genre: 
+Key: c
+Composition Year:
+Publication Year: 
+Edition: facsimile 
+Editor:
+Voice 1: d1--bes2, oboe
+Voice 2: continuo, numbered bass
+Partiture: yes
+Incipit: treble 4/4 c'2~c4. es16 d16 |
+
+Print Number: 37
+Composer: Händel, Georg Friedrich
+Title: The 3 Authentic Sonatas for oboe and continuo
+Genre: 
+Key: c; Bes; F
+Composition Year:
+Publication Year: 1979
+Edition: Nova Music, London 
+Editor:
+Voice 1: d1--bes2(c3), oboe, part
+Voice 2: continuo, bass, part
+Partiture: yes incomplete 
+Incipit: treble 4/4 c'2~c4. es16 d16 |
+Incipit 2: treble 4/4 f'8. bes16 d,8 es8 f4 r8 g8 |
+Incipit 3: treble 4/4 f'2~f8 g16 a16 c,8 bes16. a32 |
+
+Print Number: 38 
+Composer: Händel, Georg Friedrich
+Title: 2 Sontas for treble voice and continuo
+Genre: 
+Key: c; g
+Composition Year:
+Publication Year: 
+Edition: Edition Peters
+Editor:
+Voice 1: d1--bes2; a--d3
+Voice 2: continuo, realised bass (piano), part
+Partiture: no
+Incipit: treble 4/4 c'2~c4. es16 d16 |
+Incipit 2: treble 4/4 d'4. bes'8 a8 bes16 g16 fis8. g16 |
+
+Print Number: 39
+Composer: Händel, Georg Friedrich
+Title: 2 Sonatas for treble voice and continuo 
+Genre: 
+Key: c; g
+Composition Year:
+Publication Year: 
+Edition: modern, russian
+Editor:
+Voice 1: d1--bes2; c1--d3
+Voice 2: continuo, realised bass (piano), part
+Partiture: no
+Incipit: treble 4/4 c'2~c4. es16 d16 |
+Incipit 2: treble 4/4 d'4. bes'8 a8 bes16 g16 fis8. g16 |
+
+Print Number: 41
+Composer: Schaffrath, Christoph (1709--1763)
+Title: Sonata for oboe and continuo
+Genre: 
+Key: d 
+Composition Year:
+Publication Year: 
+Edition: lilypond
+Editor: 
+Voice 1: d1--bes2, oboe
+Voice 2: continuo, numbered bass
+Partiture: yes 
+Incipit: treble 4/4 a'8 | f8. e16 d16 e8 cis8 d8 a8 r8 g'8 |
+
+Print Number: 42
+Composer: Poulenc, Francis
+Title: Sonata for oboe and piano
+Genre: 
+Key: 
+Composition Year: 1962
+Publication Year: 1963
+Edition: Chester Music, London
+Editor:
+Voice 1: bes--e3, oboe, part
+Voice 2: piano, part
+Partiture: no
+Incipit: treble 3/4 d''2 bes4 | es,4 fis4. r8 |
+
+Print Number: 43
+Composer: Andriessen, Hendrik
+Title: Ballade for oboe and piano
+Genre: 
+Key: 
+Composition Year: 1952
+Publication Year: 1953
+Edition: Donemus, Amsterdam 
+Editor:
+Voice 1: c1--Des3, oboe, part
+Voice 2: piano, part
+Partiture: no
+Incipit: treble 4/4 c'2. b4 | b4 ais32 b32 ais32 g32 fis8 fis4. eis8 |
+
+Print Number: 44
+Composer: Anonymous
+Title: 24 Songs and Dances for recorder and guitar
+Genre: arrangement
+Key: 
+Composition Year: 17th century
+Publication Year: 1979
+Edition: Opus, Bratislava
+Editor: Miloslav Klement, Jozef Zsapka
+Voice 1: recorder
+Voice 2: guitar
+Partiture: yes
+Incipit: treble 3/4 a16 b16 c16 d16 e4 e4 |
+
+Print Number: 45
+Composer: Chauvon, F
+Title: Tibiades, premiere suitte
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 46
+Composer: Chauvon, F
+Title: Tibiades, troisieme suitte
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 47
+Composer: Telemann, Georg Philipp (1681-1767)
+Title: Concerto d minor oboe + orchestra
+Genre: oboe concerto
+Key: d
+Composition Year:
+Publication Year: 1953
+Edition: Hans Sikorski
+Editor: Hermann Töttcher
+Voice 1: oboe solo
+Voice 2: piano reduction
+Partiture: no
+Incipit:
+
+Print Number: 48
+Composer: Philidor, Anne Danican
+Title: Pieces pour la flute traversiere, premiere suite
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 49
+Composer: Philidor, Anne Danican
+Title: Dixieme suite (Suites a 2 flutes traversieres seules suivies de 6 suites dessus et basses) 
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 50 
+Composer: Philidor, Anne Danican
+Title: Douxieme suite (Suites a 2 flutes traversieres seules suivies de 6 suites dessus et basses)
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 51
+Composer: Hotteterre, Jacques le Romain
+Title: Premiere suitte (Second livre de pieces)
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 52
+Composer: Hotteterre
+Title: Deuxieme suitte, premier livre de pieces
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 53
+Composer: Vivaldi, Antonio 
+Title: Sonata c min ob continuo 
+Genre: oboe and continuo 
+Key: c
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 54
+Composer: Platti
+Title: Sonata Oboe solo (c minor)
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 55
+Composer: Dreyer
+Title: Sonata sesta (a minor)
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 56
+Composer: Dreyer
+Title: Sonata quinta (g minor)
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 57
+Composer: Sammartini
+Title: Sonata Oboe Solo B flat major
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 58
+Composer: Castrucci
+Title: Sonata I G major
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 59
+Composer: Philidor
+Title: Cinquieme Suite
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 60
+Composer: Matthes
+Title: Sonate fur die Hautbois, Eflat major
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 61
+Composer: Matthes
+Title: Sonate fur die Hautbois, C major
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 62
+Composer: Dothel, Niccolo figlio 
+Title: Oboe solo g min
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 63
+Composer: Dothel, Niccolo figlio
+Title: Oboe solo g min
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 64 
+Composer: Kirnberger
+Title: Oboe solo B flat major
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 65
+Composer: Vincent
+Title: Sonata VI
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 66
+Composer: Telemann
+Title: Sonata g minor
+Genre: 
+Key: g
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 67
+Composer: Besozzi
+Title: Sonata VI (C major)
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 68
+Composer: Besozzi
+Title: Sonata II (G major)
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 69
+Composer: Purcell
+Title: Air 
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 70 
+Composer: Loeillet, Jean-Baptiste
+Title: Sonate C major
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 71
+Composer: Telemann
+Title: Sonata c minor
+Genre: 
+Key: c
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 72
+Composer: Chauvon F
+Title: Tibiades, huitieme suitte
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 73
+Composer: Besozzi
+Title: Sonata 1 (D major)
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 74
+Composer: Hummel
+Title: Variations
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 75
+Composer: Bigaglia, Padre Diogenio
+Title: Sonata VIII
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 76
+Composer: Babell, William
+Title: Sonata III (Solos, part second)
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 77
+Composer: Haydn
+Title: Concerto
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 78
+Composer: Händel
+Title: Sonate 3 Eflat major (HWV382), 4 F major (HWV 383)
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 79
+Composer: Schaffrath, Christoph
+Title: Oboe Solo no. II VI. (d minor) 
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 80
+Composer: Mozart
+Title: Concerto
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 81
+Composer: Stolzel
+Title: Concerto
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 82
+Composer: Bach J S
+Title: Cantate BWV82 Ich habe genug
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 83
+Composer: Corelli-Barbirolli
+Title: Concerto (arr.)
+Genre: arrangement, oboe concerto 
+Key: F
+Composition Year:
+Publication Year: 1947
+Edition: Hawkes 
+Editor:
+Voice 1: 
+Voice 2: piano reduction 
+Partiture: 
+Incipit:
+
+Print Number: 84 
+Composer: Handel
+Title: Concerto Bflat major
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 85
+Composer: Vileneuve
+Title: Conversations
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 86
+Composer: Telemann
+Title: d'amore concerto (A major)
+Genre: 
+Key: A
+Composition Year:
+Publication Year: 
+Edition: Ernst Eulenburg 
+Editor: F. Schroeder 
+Voice 1: 
+Voice 2: violino 1
+Voice 3: violino 2
+Voice 4:
+Voice 5: violoncello & contrabasso 
+Partiture: 
+Incipit:
+
+Print Number: 87
+Composer: Purcell
+Title: Abdelazer Suite (Moor's Revenge)
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 88
+Composer: Kramář Krommer
+Title: Concerto in F
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 89
+Composer: Pla
+Title: Oboe solo (c minor)
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 90
+Composer: Loeillet
+Title: Sonata G major
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 91
+Composer: Mozart, Wolfgang Amadeus & Strauss, Richard
+Title: Oboe concertos
+Genre: 
+Key: C, D
+Composition Year:
+Publication Year: 
+Edition: Henle Verlag, München & Hawkes & Son
+Editor:
+Voice 1: 
+Partiture: no
+Incipit:
+Remark: Mozart -- 3 solo part versions, Strauss -- oboe & piano reduction 
+
+Print Number: 92
+Composer: Bozza, Eugène 
+Title: Conte pastoral
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: oboe solo part
+Partiture: yes
+Incipit:
+
+Print Number: 93 
+Composer: Hirao, Kishio 
+Title: Sonate pour Hautbois et piano 
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: no solo part 
+Partiture: yes
+Incipit:
+
+Print Number: 94
+Composer: Weber, Carl Maria
+Title: Concertino for oboe and piano 
+Genre: 
+Key: C
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: oboe part 
+Partiture: yes
+Incipit:
+
+Print Number: 95 
+Composer: Birtwistle, Harrison
+Title: Pulse Sampler for oboe and claves 
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: 
+Incipit:
+
+Print Number: 96
+Composer: Frumerie, Gunnar de
+Title: Concertino for oboe and orchestra op. 54 (strings, harp, percussion)
+Genre: oboe concerto 
+Key: 
+Composition Year: 1960 
+Publication Year: 1964
+Edition: AB Carl Gehrmans Musikförlag 
+Editor:
+Voice 1: oboe part
+Voice 2: piano reduction score
+Partiture: no
+Incipit:
+
+Print Number: 97
+Composer: Martinu, Bohuslav
+Title: Concerto pour hautbois 
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: oboe part 
+Voice 2: piano reduction 
+Partiture: no
+Incipit:
+
+Print Number: 109 
+Composer: Grovlez, Gabriel
+Title: Sarabande et Allegro pour hautbois et piano   
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: oboe 
+Partiture:  
+Incipit:
+
+Print Number: 110 
+Composer: Debussy, Claude
+Title: Album of five pieces for oboe and harp   
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: oboe part
+Partiture: no 
+Incipit:
+
+Print Number: 111 
+Composer: Bach, Johann Sebastian
+Title: Konzert fur Violine und Oboe oder zwei Violinen   
+Genre: 
+Key: c 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: violine 1
+Voice 2: violine 2
+Voice 3: piano reduction
+Partiture: no   
+Incipit:
+
+Print Number: 112 
+Composer: Bozza, Eugène
+Title: 18 etudes pour hautbois  
+Genre: 
+Key: 
+Composition Year:
+Publication Year: 
+Edition: 
+Editor:
+Voice 1: 
+Partiture: no 
+Incipit:
+
+Print Number: 226
+Composer: Bach, Johann Christian 
+Title: Quintett op. 22 no. 1
+Genre: quintet for traverso, oboe, violin, cello, continuo 
+Key: D
+Composition Year: 
+Publication Year: 1999
+Edition: Amadeus Verlag  
+Editor: 
+Voice 1: oboe 
+Partiture: no
+Incipit: 
+
+Print Number: 227
+Composer: Villa-Lobos, Hector 
+Title: Sextuor Mystique 
+Genre: sextet for flute, oboe, saxophone, guitare, celeste and harp
+Key:
+Composition Year: 1917
+Publication Year: 1957
+Edition: Max Eschig 
+Editor: 
+Voice 1: oboe
+Voice 2: celesta
+Partiture: yes 
+Incipit: 
+
+Print Number: 228
+Composer: Martinu, Bohuslav 
+Title: Quatuor 
+Genre: quartet for oboe, violin, cello and piano 
+Key:
+Composition Year: 1947
+Publication Year: 1961
+Edition: Max Eschig 
+Editor: 
+Voice 1: oboe
+Voice 2: violin
+Voice 3: cello
+Partiture: yes 
+Incipit: 
+
+Print Number: 229
+Composer: Britten, Benjamin 
+Title: Phantasy 
+Genre: oboe quartet 
+Key:
+Composition Year: 
+Publication Year: 1935
+Edition: Hawkes & Sons 
+Editor: 
+Voice 1: oboe 
+Partiture: yes 
+Incipit: 
+
+Print Number: 230
+Composer: Tandler, J
+Title: Malá suita 
+Genre: woodwind quintet 
+Key:
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: oboe 
+Partiture: no
+Incipit: 
+
+Print Number: 231 
+Composer: Vivaldi, Antonio 
+Title: Concerto RV548
+Genre: double concerto oboe, violin and strings 
+Key: Bes 
+Composition Year: 
+Publication Year: 
+Edition: lilypond 
+Editor: 
+Voice 1: oboe 
+Voice 2: double bass 
+Partiture: no
+Incipit: 
+
+Print Number: 232 
+Composer: Sooky, Roman
+Title: Addam's family variations 
+Genre: woodwind quintett 
+Key:
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: oboe 
+Partiture: no
+Incipit: 
+
+Print Number: 233 
+Composer: Polónyi, Mário 
+Title: Tereza variations 
+Genre: woodwind quintett 
+Key:
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: oboe 
+Partiture: no 
+Incipit: 
+
+Print Number: 234
+Composer: Grolmus, Marko 
+Title: Kvintet 
+Genre: woodwind quintett 
+Key:
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: oboe 
+Partiture: no
+Incipit: 
+
+Print Number: 235 
+Composer: Rossini, Gioacchino 
+Title: Predohra k opere Barbier zo Sevilly
+Genre: arrangement, woodwind quintett
+Key:
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: oboe 
+Voice 2: clarinet 
+Partiture: no 
+Incipit: 
+
+Print Number: 236
+Composer: Reicha, Anton 
+Title: Bläserquintett Es Dur op. 88 no. 2
+Genre: woodwind quintett 
+Key:
+Composition Year: 
+Publication Year: 1937 
+Edition: Leuckart, Leipzig 
+Editor: Günther Weigelt 
+Voice 1: oboe 
+Partiture: no
+Incipit: 
+
+Print Number: 237
+Composer: Rogala, U
+Title: Audi 
+Genre: oboe, percussion, violin, cello
+Key:
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 238
+Composer: Pepusch, Johann Christoph 
+Title: Concerto op 8 no 2
+Genre: 2 traversos, 2 oboes and continuo 
+Key: G
+Composition Year: 
+Publication Year: 1974
+Edition: Musica Rara  
+Editor: David Lasocki 
+Voice 1: oboe 1
+Partiture: no
+Incipit: 
+
+Print Number: 239
+Composer: Mancini, Francesco 
+Title: Quanto dolce e quell'ardore 
+Genre: cantate for soprano, oboe and continuo 
+Key: G
+Composition Year: 
+Publication Year: 
+Edition: manuscript 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 240
+Composer: Nishimura, Akira 
+Title: Madoromi II
+Genre: trio oboe and two clarinets 
+Key:
+Composition Year: 
+Publication Year: 2003 
+Edition: Zen-On Music
+Editor: 
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 241
+Composer: Händel, Georg Friedrich
+Title: Suite III HWV350 (Water music)
+Genre: dances, 4 voices 
+Key: G
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 242
+Composer: Bach, Johann Sebastian 
+Title: Ich habe genug, BWV82 
+Genre: cantate for bass, oboe, strings, continuo 
+Key:
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: oboe 
+Partiture: no 
+Incipit: 
+
+Print Number: 243
+Composer: Händel, Georg Friedrich
+Title: Mi palpita il cor (incomplete)
+Genre: cantate for soprano, oboe, continuo 
+Key: G
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 244
+Composer: Händel, Georg Friedrich
+Title: Sonata IV op. 2 HWV389
+Genre: triosonata traverso, violin, continuo 
+Key: F
+Composition Year: 
+Publication Year: 
+Edition: facsimile 
+Editor: 
+Voice 1: traverso 
+Voice 2: violin 
+Voice 3: cimbalo  
+Partiture: no
+Incipit: 
+
+Print Number: 245
+Composer: Böddecker, Phillipe Friedrich
+Title: Sonata sopra La Monica 
+Genre: bassoon and continuo 
+Key: g
+Composition Year: 1651
+Publication Year: 2000
+Edition: 
+Editor: Hans Mons 
+Voice 1: bassoon 
+Partiture: yes 
+Incipit: 
+
+Print Number: 246 
+Composer: Yokoyama, Shin Itchiro 
+Title: Divertissement pour basson seul 
+Genre: solo bassoon 
+Key:
+Composition Year: 15. 1. 2003 
+Publication Year: 27. 02. 2011 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: 
+Incipit: 
+
+Print Number: 247
+Composer: Sauguet, Henri 
+Title: Barcarolle 
+Genre: bassoon and harp (piano)
+Key: G
+Composition Year: 
+Publication Year: 1936
+Edition: 
+Editor: 
+Voice 1: bassoon 
+Partiture: no
+Incipit: 
+
+Print Number: 248 
+Composer: Jacob, Gordon 
+Title: Partita for solo bassoon 
+Genre: solo bassoon 
+Key:
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: 
+Incipit: 
+
+Print Number: 249
+Composer: Bartók, Béla 
+Title: Három Csíkmegyei népdal 
+Genre: oboe and piano 
+Key:
+Composition Year: 
+Publication Year: 1957
+Edition: Editio Musica 
+Editor: Tibor Szeszler 
+Voice 1: oboe 
+Partiture: no 
+Incipit: 
+
+Print Number: 250
+Composer: Bodorová, Sylvie 
+Title: Magikon 
+Genre: oboe and piano 
+Key:
+Composition Year: 1987
+Publication Year: 1997 
+Edition: Supraphon, Praha 
+Editor: 
+Voice 1: oboe 
+Partiture: no
+Incipit: 
+
+Print Number: 251
+Composer: Head, Michael 
+Title: Siciliana for oboe and harpsichord 
+Genre: oboe and piano 
+Key:
+Composition Year: 
+Publication Year: 1975
+Edition: June Emerson, Ampleforth Yorks 
+Editor: Evelyn Barbirolli 
+Voice 1: oboe 
+Partiture: no
+Incipit: 
+
+Print Number: 252
+Composer: Dorati, Antal 
+Title: Duo concertante 
+Genre: oboe and piano
+Key:
+Composition Year: 1983
+Publication Year: 1991
+Edition: Boosey & Hawkes 
+Editor: 
+Voice 1: 
+Partiture: yes  
+Incipit: 
+
+Print Number: 253
+Composer: Abramova
+Title: Tanec 
+Genre: oboe and piano 
+Key: d
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: oboe  
+Partiture: yes 
+Incipit: 
+
+Print Number: 254
+Composer: Bach, Johann Sebastian 
+Title: Contrapunctus 14 & 15 (Kunst der Fuge) 
+Genre: 2 voice 
+Key:
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 255
+Composer: Ganz, Moritz 
+Title: 6 pieces faciles en forme de romances 
+Genre: bassoon and piano 
+Key:
+Composition Year: 
+Publication Year: 
+Edition: Schott
+Editor: 
+Voice 1: bassoon 
+Partiture: no
+Incipit: 
+
+Print Number: 256 
+Composer: Vivaldi, Antonio 
+Title: Concerto B flat P401 La notte 
+Genre: bassoon concerto 
+Key: Bes 
+Composition Year: 
+Publication Year: 1970
+Edition: Musica Rara 
+Editor: 
+Voice 1: bassoon 
+Voice 2: violin 1
+Partiture: no
+Incipit: 
+
+Print Number: 257 
+Composer: Kirnberger, Johann Philipp 
+Title: Sonate für die Oboe
+Genre: oboe and continuo 
+Key: Bes 
+Composition Year: 
+Publication Year: 2014
+Edition: 
+Editor: Tim Willis 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 258
+Composer: Kirnberger, Johann Philipp 
+Title: Sonate 
+Genre: oboe and continuo 
+Key: Bes 
+Composition Year: 
+Publication Year: 1769 
+Edition: Vermischte Musikalien 
+Editor: 
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 259
+Composer: Freytag, Johann Heinrich 
+Title: Sonate XIX (B-Bc 15115)
+Genre: oboe and continuo 
+Key: Bes 
+Composition Year: 
+Publication Year: 2014
+Edition: 
+Editor: Tim Willis 
+Voice 1: 
+Partiture: yes  
+Incipit: 
+
+Print Number: 260
+Composer: Vivali, Antonio 
+Title: Concerto per fagotto RV484 
+Genre: bassoon concerto  
+Key: e
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: bassoon 
+Partiture: yes 
+Incipit: 
+
+Print Number: 261
+Composer: Neretin, M, Zakopets, M 
+Title: cadences for Mozart Concerto 
+Genre: cadence
+Key:
+Composition Year: 
+Publication Year: 1996 
+Edition: Winter 
+Editor: 
+Voice 1: oboe 
+Partiture: 
+Incipit: 
+
+Print Number: 262
+Composer: Bozza, Eugene 
+Title: Fantaisie pastorale op. 37
+Genre: oboe and piano 
+Key:
+Composition Year: 
+Publication Year: 1989
+Edition: Alphonse Leduc 
+Editor: 
+Voice 1: oboe 
+Partiture: yes
+Incipit: 
+
+Print Number: 263
+Composer: Schumann, Robert 
+Title: 3 Romanzen op. 94
+Genre: oboe and piano 
+Key:
+Composition Year: 
+Publication Year: 
+Edition: Peters 
+Editor: 
+Voice 1: oboe 
+Partiture: no 
+Incipit: 
+
+Print Number: 264
+Composer: Gaubert, Philippe 
+Title: Intermede champetre 
+Genre: oboe and piano 
+Key:
+Composition Year: 
+Publication Year: 1934
+Edition: Alphonse Leduc 
+Editor: 
+Voice 1: oboe
+Partiture: no 
+Incipit: 
+
+Print Number: 265
+Composer: Shinohara, Makoto 
+Title: Obsession 
+Genre: oboe and piano 
+Key:
+Composition Year: 
+Publication Year: 1960
+Edition: Alphonse Leduc 
+Editor: 
+Voice 1: oboe 
+Partiture: no 
+Incipit: 
+
+Print Number: 266
+Composer: Cimarosa, Domenico 
+Title: Concerto for oboe and strings 
+Genre: oboe concerto 
+Key:
+Composition Year: 
+Publication Year: 1942
+Edition: Hawkes & Son 
+Editor: Arthur Benjamin 
+Voice 1: oboe 
+Voice 2: piano reduction 
+Partiture: no 
+Incipit: 
+
+Print Number: 267
+Composer: Various 
+Title: Studien zum Spielen Neuer Musik 
+Genre: etudes 
+Key:
+Composition Year: 
+Publication Year: 
+Edition: Breitkopf & Härtel 
+Editor: Heinz Holliger 
+Voice 1: Anhang
+Voice 2: Appendix 
+Voice 3: Appendice 
+Partiture: 
+Incipit: 
+
+Print Number: 268
+Composer: Andriessen, Louis 
+Title: To Pauline O
+Genre: oboe solo 
+Key:
+Composition Year: 
+Publication Year: 
+Edition: Boosey & Hawkes 
+Editor: 
+Voice 1: 
+Partiture: 
+Incipit: 
+
+Print Number: 269
+Composer: Pauer, Jiří
+Title: Pastorely 
+Genre: oboe solo 
+Key:
+Composition Year: 1976 
+Publication Year: 
+Edition: manuscript 
+Editor: 
+Voice 1: 
+Partiture: 
+Incipit: 
+
+Print Number: 270
+Composer: Tomasi, Henri 
+Title: Évocations 
+Genre: oboe solo 
+Key:
+Composition Year: 
+Publication Year: 1969
+Edition: Alphonse Leduc 
+Editor: 
+Voice 1: 
+Partiture: 
+Incipit: 
+
+Print Number: 271 
+Composer: Carter, Elliott 
+Title: Inner Song oboe solo from Trilogy
+Genre: oboe solo 
+Key:
+Composition Year: 1992
+Publication Year: 1999
+Edition: Hendon Music, Boosey & Hawkes 
+Editor: Heinz Holliger 
+Voice 1: 
+Partiture: 
+Incipit: 
+
+Print Number: 272
+Composer: Nishimura, Akira 
+Title: Karura 
+Genre: oboe solo 
+Key:
+Composition Year: 
+Publication Year: 2010 
+Edition: Zen-On Music 
+Editor: 
+Voice 1: 
+Partiture: 
+Incipit: 
+
+Print Number: 273 
+Composer: Mochizuki, Misato 
+Title: Au bleu bois 
+Genre: oboe solo 
+Key:
+Composition Year: 1998  
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: 
+Incipit: 
+
+Print Number: 274
+Composer: Britten, Benjamin 
+Title: Six Metamorphoses after Ovid op. 49
+Genre: oboe solo 
+Key:
+Composition Year: 
+Publication Year: 1952 
+Edition: Boosey & Hawkes 
+Editor: 
+Voice 1: 
+Partiture: 
+Incipit: 
+
+Print Number: 275
+Composer: Harvey, Jonathan 
+Title: Ricercare una melodia 
+Genre: oboe and tape-delay system 
+Key:
+Composition Year: 
+Publication Year: 1987
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: 
+Incipit: 
+
+Print Number: 276 
+Composer: Telemann, Georg Philipp 
+Title: Sonata a Flauto, Hautbois e Cembalo 
+Genre: triosonate for recorder, oboe and continuo 
+Key: e
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 277
+Composer: Fasch, Johann Friedrich 
+Title: Sonata FaWVN:B1
+Genre: quartett for recorder, oboe, violin and continuo 
+Key: Bes 
+Composition Year: 
+Publication Year: 
+Edition: manuscript 
+Editor: 
+Voice 1: oboe 
+Partiture: no 
+Incipit: 
+
+Print Number: 278
+Composer: Vivaldi, Antonio 
+Title: Concerto for recorder, oboe, bassoon and continuo P402
+Genre: chamber concerto for recorder, oboe, bassoon and continuo 
+Key: g
+Composition Year: 
+Publication Year: 1971 
+Edition: Musica Rara 
+Editor: David Lasocki 
+Voice 1: oboe 
+Partiture: yes 
+Incipit: 
+
+Print Number: 279
+Composer: Vivaldi, Antonio
+Title: Concerto no. 4 RV103
+Genre: chamber concerto for recorder, oboe, bassoon and continuo 
+Key: g
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: continuo 
+Partiture: no 
+Incipit: 
+
+Print Number: 280 
+Composer: Pilss, Karl 
+Title: Sonatine für Oboe und Gitarre 
+Genre: oboe and guitar 
+Key: A
+Composition Year: 1942
+Publication Year: 1978
+Edition: Doblinger, Wien  
+Editor: Karl Scheit 
+Voice 1: oboe
+Partiture: yes 
+Incipit: 
+
+Print Number: 281
+Composer: Vivaldi, Antonio 
+Title: Concerto in la minore 
+Genre: oboe concerto 
+Key: a
+Composition Year: 
+Publication Year: 1963
+Edition: Editio Musica, Budapest  
+Editor: 
+Voice 1: oboe
+Partiture: no
+Incipit: 
+
+Print Number: 282 
+Composer: Mozart, Wolfgang Amadeus 
+Title: Concert C major 
+Genre: oboe concerto 
+Key: C
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: Slabinskoj, L. 
+Voice 1: oboe 
+Partiture: no 
+Incipit: 
+
+Print Number: 283
+Composer: Zelenka, Jan Dismas 
+Title: Sonata no 3
+Genre: quartet for 2 oboes, bassoon and continuo 
+Key: Bes 
+Composition Year: 
+Publication Year: 2009
+Edition: 
+Editor: M. Messiter 
+Voice 1: Violin or Oboe 1
+Voice 2: Oboe 2
+Voice 3: Bassoon 
+Partiture: no 
+Incipit: 
+
+Print Number: 284
+Composer: 
+Title: Stänchen 
+Genre: arrangement, oboe and guitar 
+Key:
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 285
+Composer: Fibich, Zdeněk 
+Title: Poem 
+Genre: arrangement, violin and piano 
+Key: C
+Composition Year: 
+Publication Year: 1953
+Edition: Státní nakladatelství  
+Editor: V. Brož
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 286
+Composer: Clérambault 
+Title: Le Soleil vainquer des Nuages 
+Genre: cantate for soprano, traverso, oboe, violin and continuo 
+Key: D
+Composition Year: 
+Publication Year: 
+Edition: facsimile 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 287 
+Composer: Britten, Benjamin 
+Title: 6 Metamorphoses op. 49 
+Genre: oboe solo 
+Key:
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: 
+Incipit: 
+
+Print Number: 288
+Composer: Rakov, Nikolai
+Title: Sonata 
+Genre: oboe and piano 
+Key: F
+Composition Year: 1951  
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes  
+Incipit: 
+
+Print Number: 289
+Composer: Händel, Georg Friedrich
+Title: Sonata in c minor op. 1, no. 8
+Genre: oboe and continuo  
+Key: c
+Composition Year: 
+Publication Year: 1988
+Edition: 
+Editor: Robert Bloom, Sara Lambert Bloom 
+Voice 1: oboe
+Voice 2: continuo 
+Partiture: no
+Incipit: 
+
+Print Number: 290 
+Composer: Händel, Georg Friedrich
+Title: Sonata VI
+Genre: oboe and continuo 
+Key: g
+Composition Year: 1724
+Publication Year: 1732
+Edition: facsimile
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 291
+Composer: Händel, Georg Friedrich
+Title: Sonata VI HWV364
+Genre: oboe and continuo 
+Key: g
+Composition Year: 1724
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 292
+Composer: Händel, Georg Friedrich
+Title: Sonata pour l'hautbois solo
+Genre: oboe and continuo 
+Key: Bes 
+Composition Year: 
+Publication Year: 
+Edition: manuscript 
+Editor: 
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 293
+Composer: Händel, Georg Friedrich 
+Title: Gigue 
+Genre: arrangement, oboe and piano 
+Key: a
+Composition Year: 
+Publication Year: 
+Edition: M. Ivanov 
+Editor: 
+Voice 1: oboe
+Partiture: no 
+Incipit: 
+
+Print Number: 294
+Composer: Skriabin, A. 
+Title: Ekcpromt v forme mazurki, op. 2 no. 3
+Genre: arrangement, oboe and piano 
+Key: C
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: A. Slavinskoj
+Voice 1: oboe
+Partiture: no
+Incipit: 
+
+Print Number: 295 
+Composer: Skriabin, A.
+Title: Etude op. 42 no. 4
+Genre: arrangement, oboe and piano 
+Key: d
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: Slavinskoj, L. 
+Voice 1: oboe
+Partiture: no 
+Incipit: 
+
+Print Number: 296
+Composer: Telemann, Georg Philipp 
+Title: Ouverture C dur 
+Genre: 2 oboes, bassoon and strings 
+Key: C
+Composition Year: 
+Publication Year: 
+Edition: Bärenreiter
+Editor: Friedrich Noack
+Voice 1: oboe 1
+Voice 2: oboe 2
+Partiture: no 
+Incipit: 
+
+Print Number: 297
+Composer: Bozza, Eugene 
+Title: Berceuse
+Genre: flute or oboe and piano
+Key: g
+Composition Year: 
+Publication Year: 1976
+Edition: Alphonse Leduc 
+Editor: 
+Voice 1: flute or oboe  
+Partiture: no
+Incipit: 
+
+Print Number: 298
+Composer: Kopylov, A. 
+Title: Menuet 
+Genre: oboe and guitar 
+Key: G
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: oboe
+Partiture: yes 
+Incipit: 
+
+Print Number: 299
+Composer: Telemann, Georg Philipp
+Title: Siciliano 
+Genre: arrangement, oboe and piano
+Key: A
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: oboe
+Partiture: no 
+Incipit: 
+
+Print Number: 300 
+Composer: Vivaldi, Antonio 
+Title: Concerto in Do maggiore Fanna VII. no. 3
+Genre: double concerto for 2 oboes and strings 
+Key: C
+Composition Year: 
+Publication Year: 1968
+Edition: Editio Musica, Budapest
+Editor: Oliver Nagy 
+Voice 1: oboe 1 & 2
+Partiture: no
+Incipit: 
+
+Print Number: 301
+Composer: Telemann, Georg Philipp
+Title: Sonate, aus Der getreue Music-Meister
+Genre: bassoon and continuo 
+Key: f
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 302
+Composer: Telemann, Georg Philipp
+Title: Sonate 
+Genre: triosonate for recorder, violin and continuo 
+Key: F
+Composition Year: 
+Publication Year: 1958 
+Edition: 
+Editor: Mönkemeyer 
+Voice 1: violin 
+Partiture: 
+Incipit: 
+
+Print Number: 303
+Composer: Janitsch, Johann Gottlieb 
+Title: Quadro 
+Genre: quartett for oboe, violin, viola, continuo  
+Key: g
+Composition Year: 
+Publication Year: 2001
+Edition: Amadeus Verlag 
+Editor: Christine Gevert 
+Voice 1: oboe 
+Partiture: yes
+Incipit: 
+
+Print Number: 304
+Composer: Zelenka, Jan Dismas 
+Title: Arie anděla z opery Svatý Václav 
+Genre: arrangement, soprano, oboe and piano 
+Key: d
+Composition Year: 1723
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 305
+Composer: Bach, Johann Christian 
+Title: Six Quintetto op. 11
+Genre: quintett for traverso, oboe, violin, viola and continuo 
+Key:
+Composition Year: 
+Publication Year: 
+Edition: Hummel 
+Editor: 
+Voice 1: oboe 
+Partiture: 
+Incipit: 
+
+Print Number: 306
+Composer: Albinoni, Tomaso
+Title: Concerto a 5, op. 9 no. 8
+Genre: oboe concerto 
+Key: g
+Composition Year: 
+Publication Year: 1972
+Edition: Musica Rara  
+Editor: Franz Giegling 
+Voice 1: oboe 
+Partiture: piano reduction 
+Incipit: 
+
+Print Number: 307
+Composer: Alojnikaj
+Title: Romanca
+Genre: oboe and piano 
+Key: C
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes  
+Incipit: 
+
+Print Number: 308
+Composer: Vivaldi, Antonio 
+Title: Trio sonata Lund 
+Genre: triosonate 2 oboes, continuo 
+Key: g
+Composition Year: 
+Publication Year: 1973
+Edition: Musica Rara 
+Editor: David Lasocki, R. P. Block 
+Voice 1: oboe 1
+Voice 2: oboe 2
+Partiture: yes 
+Incipit: 
+
+Print Number: 309
+Composer: Widerkehr, J. C. M. 
+Title: Duo Sonata 
+Genre: oboe and piano 
+Key: G
+Composition Year: 
+Publication Year: 1974
+Edition: Musica Rara  
+Editor: James Brown 
+Voice 1: oboe 
+Partiture: yes 
+Incipit: 
+
+Print Number: 310 
+Composer: Lebrun, Ludwig August 
+Title: Concerto no. 4 
+Genre: oboe concerto 
+Key: C
+Composition Year: 
+Publication Year: 1964
+Edition: Simrock, Hamburg 
+Editor: Walter Lebermann 
+Voice 1: oboe solo 
+Partiture: 
+Incipit: 
+
+Print Number: 311
+Composer: Babell, William 
+Title: Sonata I (Book 1)
+Genre: oboe and continuo 
+Key: Bes 
+Composition Year: 
+Publication Year: 
+Edition: facsimile 
+Editor: 
+Voice 1: 
+Partiture: yes  
+Incipit: 
+
+Print Number: 312
+Composer: Babell, William 
+Title: Sonata II (Book 1)
+Genre: oboe and continuo 
+Key: c
+Composition Year: 
+Publication Year: 
+Edition: facsimile  
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 313
+Composer: Babell, William 
+Title: Sonata III (Book 1)
+Genre: oboe and continuo 
+Key: f
+Composition Year: 
+Publication Year: 
+Edition: facsimile 
+Editor: 
+Voice 1: 
+Partiture: yes  
+Incipit: 
+
+Print Number: 314
+Composer: Mozart, Wolfgang Amadeus 
+Title: Quartet K370
+Genre: oboe quartett 
+Key: F
+Composition Year: 
+Publication Year: 
+Edition: Breitkopf & Härtel 
+Editor: 
+Voice 1: oboe 
+Partiture: yes 
+Incipit: 
+
+Print Number: 315
+Composer: Telemann, Georg Philipp 
+Title: Sonata I (Sonate Metodische, op. 13)
+Genre: oboe and continuo 
+Key: g 
+Composition Year: 
+Publication Year: 1728
+Edition: facsimile 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 316
+Composer: Loeillet, Jean Baptiste (John of London) 
+Title: Sonata op. II/6
+Genre: triosonate recorder, oboe and continuo 
+Key: c 
+Composition Year: 
+Publication Year: 1961
+Edition: Hortus musicus, Bärenreiter 
+Editor: 
+Voice 1: oboe  
+Partiture: yes 
+Incipit: 
+
+Print Number: 317
+Composer: Debussy, Claude 
+Title: Le boite a joujoux
+Genre: orchestra
+Key:
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: bassoon 1 & 2
+Partiture: no
+Incipit: 
+
+Print Number: 318
+Composer: Dornel, Antoine 
+Title: Sonate en Trio op. 3/3 
+Genre: triosonate for 2 flutes and continuo 
+Key: b 
+Composition Year: 
+Publication Year: 1988 
+Edition: Hinnenthal Verlag 
+Editor: 
+Voice 1: flauto II
+Voice 2: flauto I
+Voice 3: Basso continuo 
+Partiture: yes 
+Incipit: 
+
+Print Number: 319
+Composer: Kleinknecht
+Title: Sonata 
+Genre: triosonate traverso, oboe or violin and continuo 
+Key: c
+Composition Year: 
+Publication Year: 
+Edition: manuscript 
+Editor: 
+Voice 1: oboe or violin  
+Partiture: no 
+Incipit: 
+
+Print Number: 320
+Composer: Bach, Johann Sebastian 
+Title: Inventio II
+Genre: harpsichord 
+Key: d 
+Composition Year: 
+Publication Year: 
+Edition: facsiile 
+Editor: 
+Voice 1: 
+Partiture: 
+Incipit: 
+
+Print Number: 321
+Composer: Poulenc, Francis 
+Title: Polka 
+Genre: piano 
+Key:
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: 
+Incipit: 
+
+Print Number: 322
+Composer: Händel, Georg Friedrich 
+Title: Sonate B-dur 
+Genre: triosonate oboe, violin and continuo 
+Key: Bes 
+Composition Year: 
+Publication Year: 1962
+Edition: Hortus musicus, Bärenreiter
+Editor: 
+Voice 1: oboe 
+Partiture: no
+Incipit: 
+
+Print Number: 323
+Composer: Händel, Georg Friedrich
+Title: Sonata II. 
+Genre: triosonate 2 oboes and continuo 
+Key: d
+Composition Year: 
+Publication Year: 
+Edition: HW
+Editor: 
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 324
+Composer: Stravinsky, Igor 
+Title: The Rite of Spring, premiere partie 
+Genre: 
+Key:
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: bassoon 1 (incomplete)
+Partiture: no 
+Incipit: 
+
+Print Number: 325
+Composer: Lebrun 
+Title: Concerto III
+Genre: oboe concerto 
+Key: F
+Composition Year: 
+Publication Year: 
+Edition: facsimile  
+Editor: 
+Voice 1: oboe obligato 
+Partiture: 
+Incipit: 
+
+Print Number: 326
+Composer: Couperin, François
+Title: Septiéme Concert 
+Genre: treble and continuo 
+Key: g
+Composition Year: 
+Publication Year: 1975
+Edition: Muscia Rara 
+Editor: David Lasocki 
+Voice 1: 
+Partiture: yes (partly numbered) 
+Incipit: 
+
+Print Number: 327 
+Composer: Telemann, Georg Philipp
+Title: Triosonate 42:F15
+Genre: trisonate recorder, oboe and continuo  
+Key: F
+Composition Year: 
+Publication Year: 1969
+Edition: Musikverlag 
+Editor: Hugo Ruf
+Voice 1: continuo 
+Voice 2: flauto dolce 
+Voice 3: oboe 
+Partiture: no 
+Incipit: 
+
+Print Number: 328
+Composer: Linike, Johann Georg 
+Title: Sonata a 3 voci D-Dl Mus.2376-Q-3
+Genre: triosonate recorder, oboe and continuo 
+Key: a
+Composition Year: 
+Publication Year: 
+Edition: manuscript 
+Editor: 
+Voice 1: recorder
+Voice 2: oboe
+Partiture: no 
+Incipit: 
+
+Print Number: 329
+Composer: Roman, Johan Helmich 
+Title: Triosonata in g 
+Genre: triosonate for 2 oboes and continuo  
+Key: g
+Composition Year: 
+Publication Year: 1999
+Edition: 
+Editor: Christian Mondrup
+Voice 1: oboe 1
+Partiture: no
+Incipit: 
+
+Print Number: 330
+Composer: Marcello, Benedetto
+Title: Six Sonatas for cello and continuo
+Genre: cello and continuo 
+Key:
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: cello 
+Partiture: yes incomplete 
+Incipit: 
+
+Print Number: 331 
+Composer: Telemann, Georg Philipp  
+Title: Sonate 
+Genre: triosonate for recorder, oboe and continuo
+Key: c
+Composition Year: 
+Publication Year: 
+Edition: Peters 
+Editor: Waldemar Woehl
+Voice 1: 
+Voice 2: oboe 
+Voice 3: cello 
+Partiture: yes 
+Incipit: 
+
+Print Number: 332
+Composer: Salonen, Esa-Pekka
+Title: Second meeting 
+Genre: oboe and piano
+Key:
+Composition Year: 
+Publication Year: 1993
+Edition: Chester Music 
+Editor: 
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 333
+Composer: Saint-Saens, Camille
+Title: Sonate op. 168
+Genre: bassoon and piano 
+Key:
+Composition Year: 
+Publication Year: 
+Edition: Peters 
+Editor: Reiner Zimmermann
+Voice 1: bassoon 
+Partiture: no
+Incipit: 
+
+Print Number: 334
+Composer: Loeillet, Jean Baptiste (John of London) 
+Title: Sonatas for Variety of Instruments 
+Genre: triosonates for recorder, oboe and continuo 
+Key:
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1:  
+Voice 2: oboe 
+Voice 3: continuo 
+Partiture: no
+Incipit: 
+
+Print Number: 335
+Composer: Brod, Henri
+Title: Trio op. 5
+Genre: trio for oboe, bassoon and piano 
+Key: Bes 
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: oboe
+Voice 2: bassoon 
+Partiture: no
+Incipit: 
+
+Print Number: 336
+Composer: Braun, Günter
+Title: Sonatine für Oboe (oder Flöte) und Gitarre 
+Genre: oboe and guitar 
+Key: E
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: oboe 
+Partiture: no
+Incipit: 
+
+Print Number: 337 
+Composer: Dubovský, Milan 
+Title: Song per oboe a piano (IV. časť z orchestrálnej Dancing Suite)
+Genre: oboe and piano 
+Key:
+Composition Year: 
+Publication Year: 
+Edition: manuscript 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 338
+Composer: Mitscha, Adam 
+Title: Sonatina for oboe and piano 
+Genre: oboe and piano 
+Key: 
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: oboe
+Partiture: no 
+Incipit: 
+
+Print Number: 339
+Composer: Kořínek, Miloslav 
+Title: Dve skladby 
+Genre: oboe and piano 
+Key:
+Composition Year: 
+Publication Year: 1976
+Edition: Slovenský hudobný ond 
+Editor: 
+Voice 1: oboe 
+Partiture: no
+Incipit: 
+
+Print Number: 340
+Composer: Bach, Johann Sebastian 
+Title: Ein Herz, das seinen Jesum lebend weiss (no. 134, BWV134) am dritten Ostertag 
+Genre: cantate
+Key:
+Composition Year: 
+Publication Year: 
+Edition: Breitkopf & Härtel 
+Editor: 
+Voice 1:
+Voice 2: oboe 2 
+Partiture: yes 
+Incipit: 
+
+Print Number: 341 
+Composer: Various 
+Title: Klavírní doprovody ke Škole pro nejmladší hobojisty od M. Hoška (sešit 3)
+Genre: oboe and piano 
+Key:
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 342
+Composer: 
+Title: Nové střevíčky 
+Genre: oboe and piano 
+Key:
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: oboe
+Partiture: no
+Incipit: 
+
+Print Number: 343  
+Composer: Vilec, M
+Title: Letné zápisky, V. Dievča motýl 
+Genre: oboe and piano 
+Key:
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: oboe 
+Partiture: no 
+Incipit: 
+
+Print Number: 344
+Composer: 
+Title: Danza Tanec 
+Genre: oboe and piano 
+Key:
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: oboe 
+Partiture: no
+Incipit: 
+
+Print Number: 345
+Composer: Bach, Johann Sebastian 
+Title: Concerto for 2 violins, BWV1043
+Genre: double concerto for 2 violins 
+Key: d
+Composition Year: 
+Publication Year: 
+Edition: Breitkopf
+Editor: Friedrich Spiro 
+Voice 1: violin 1
+Voice 2: violin 2 
+Voice 3: 2 violins and piano arrangement 
+Partiture: no
+Incipit: 
+
+Print Number: 346
+Composer: Telemann, Georg Philipp
+Title: Concerto 
+Genre: oboe concerto 
+Key: d
+Composition Year: 
+Publication Year: 
+Edition: manuscript
+Editor: 
+Voice 1:
+Voice 2: violin 1
+Voice 3: violin 2
+Voice 4: viola 
+Partiture: no
+Incipit: 
+
+Print Number: 347 
+Composer: Telemann, Georg Philipp 
+Title: Concerto TWV51:f2
+Genre: oboe concerto 
+Key: f
+Composition Year: 
+Publication Year: 
+Edition: manuscript 
+Editor: 
+Voice 1: oboe
+Partiture: no 
+Incipit: 
+
+Print Number: 348
+Composer: Telemann, Georg Philipp
+Title: Concerto TWV51:f1
+Genre: oboe concerto 
+Key: f
+Composition Year: 
+Publication Year: 
+Edition: manuscript 
+Editor: 
+Voice 1: oboe
+Voice 2: cembalo 
+Partiture: no
+Incipit: 
+
+Print Number: 349
+Composer: Hotteterre le Romain 
+Title: Troisieme Suitte Sonate (transposition maj 2 down)
+Genre: treble and continuo 
+Key: C
+Composition Year: 
+Publication Year: 
+Edition: modern manuscript 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 350 
+Composer: Hotteterre le Romain, Jacques 
+Title: Troisieme Suite Sonate (transposition maj 2 down)
+Genre: treble and continuo  
+Key: C
+Composition Year: 
+Publication Year: 
+Edition: lilypond 
+Editor: 
+Voice 1: 
+Voice 2: continuo 
+Partiture: yes 
+Incipit: 
+
+Print Number: 351
+Composer: Couperin, François
+Title: Premier Concert 
+Genre: treble and continuo 
+Key: G
+Composition Year: 
+Publication Year: 
+Edition: Concerts Royaux 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 352
+Composer: Couperin, François
+Title: Concerts Royaux 
+Genre: treble and continuo 
+Key:
+Composition Year: 
+Publication Year: 1722
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 353
+Composer: Furno, Giovanni 
+Title: An Easy, Brief, and Clear Method Concerning the Primary and Essential Rules for Accompanying Unfigured Partimenti
+Genre: method  
+Key: 
+Composition Year: ca 1817 
+Publication Year: 
+Edition: 
+Editor: Gjerdigen 
+Voice 1: 
+Partiture: 
+Incipit: 
+
+Print Number: 354
+Composer: Hoffmann, Melchior 
+Title: Triosonate für oboe, violin und basso continuo 
+Genre: triosonate for oboe, violin and continuo 
+Key: g
+Composition Year: 
+Publication Year: 
+Edition: imslp
+Editor: Notenschreiber 
+Voice 1: oboe
+Voice 2: violin 
+Partiture: no 
+Incipit: 
+
+
+Print Number: 382
+Composer: Besozzi, Alessandro 
+Title: Sonate I (transposition maj 2 down)
+Genre: oboe and continuo  
+Key: C
+Composition Year: 
+Publication Year: 
+Edition: modern manuscript 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 383
+Composer: Nishimura, Akira 
+Title: Karura for oboe and chamber orchestra 
+Genre: oboe concerto 
+Key:
+Composition Year: 
+Publication Year: 2002 
+Edition: Zen-on 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+
+
+Print Number: 679  
+Composer: Beethoven, Ludvig van 
+Title: Sonata no. 14 „Moonlight“ op. 27, no. 2 (incomplete) 
+Genre: piano 
+Key: cis 
+Composition Year: 
+Publication Year: 
+Edition: Mutopia 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 680
+Composer: Clementi, Muzio 
+Title: Sonatina 2 
+Genre: piano 
+Key: G 
+Composition Year: 
+Publication Year: 
+Edition: Mutopia  
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 681
+Composer: Frescobaldi, Girolamo (1583--1643) 
+Title: Gagliarda Prima, Gagliarda Seconda 
+Genre: harpsichord 
+Key: a; g 
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes  
+Incipit: 
+
+Print Number: 682 
+Composer: Froberger, Johann Jakob (1616--1667) 
+Title: Lamento sopra la dolorosa perdita della Real Mstà di Ferdinando IV, Ré de Romani 
+Genre: harpsichord 
+Key: C 
+Composition Year: 
+Publication Year: 
+Edition: facsimile 
+Editor: 
+Voice 1: 
+Partiture: yes  
+Incipit: 
+
+Print Number: 683
+Composer: Froberger, Johann Jakob (1616--1667) 
+Title: Lamento sopra la dolorosa perdita della Real Mstà di Ferdinando IV, Ré de Romani 
+Genre: harpsichord 
+Key: C
+Composition Year: 
+Publication Year: 
+Edition: modern 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 684 
+Composer: Sweelinck, Jan Pieterszoon (1562--1621) 
+Title: Variations on dance tunes, 65. Balletto del granduca SWV319  
+Genre: harpsichord 
+Key: G 
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 685
+Composer: Satie, Eric 
+Title: 6 Gnossiennes  
+Genre: piano 
+Key: f 
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 686 
+Composer: Heller, Stephen (1813--1888) 
+Title: Zastaveníčko/Ständchen/Sérénade op. 47, č. 19 
+Genre: piano 
+Key: C 
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes  
+Incipit: 
+
+Print Number: 687 
+Composer: Various 
+Title: Popular bass schemes 
+Genre: bass ornamentation 
+Key:
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 688 
+Composer: Marcello, Alessandro (1684--1750) 
+Title: Oboe Concerto d minor 
+Genre: oboe concerto 
+Key: d 
+Composition Year: 
+Publication Year: 
+Edition: modern after D-Dl Mus 1-0-1
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 689 
+Composer: Bach, Johann Sebastian  
+Title: Concerto III 
+Genre: harpsichord 
+Key: d 
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 690 
+Composer: Mozart, Wolfgang Amadeus 
+Title: Suite KV399
+Genre: piano 
+Key: C 
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes  
+Incipit: 
+
+Print Number: 691 
+Composer: Satie, Erik (1866--1925) 
+Title: Troisième Gymnopédie  
+Genre: piano 
+Key: a 
+Composition Year: 1888
+Publication Year: 2006 
+Edition: Les Éditions Outremontaises
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 692 
+Composer: Froberger, Johann Jakob 
+Title: Capriccio 
+Genre: harpsichord 
+Key: d 
+Composition Year:  
+Publication Year: 1978 
+Edition: Stainer & Bell 
+Editor: 
+Voice 1: 
+Partiture: 
+Incipit: 
+
+Print Number: 693  
+Composer: Froberger, Johann Jakob 
+Title: Capriccio 
+Genre: harpsichord 
+Key: d 
+Composition Year: 
+Publication Year: 1978  
+Edition: Stainer & Bell 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 694 
+Composer: Duphly (Du Fly) 
+Title: Rondeau 
+Genre: harpsichord 
+Key: d 
+Composition Year: 
+Publication Year: 
+Edition: facsimile  
+Editor: 
+Voice 1: 
+Partiture: 
+Incipit: 
+
+Print Number: 695 
+Composer: Telemann, Georg Philipp 
+Title: Sonata quarta & Sonata quinta (Continuation des Sonates Methodiques) 
+Genre: treble and continuo 
+Key: Bes; d 
+Composition Year: 1732, Hamburg 
+Publication Year: 
+Edition: facsimile 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 696 
+Composer: Dowland, John (1563--1626) 
+Title: If my complaints could passions move 
+Genre: choir 
+Key: g 
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes   
+Incipit: 
+
+Print Number: 697 
+Composer: Dowland, John (1563--1626) 
+Title: Can she excuse my wrongs 
+Genre: choir 
+Key: d 
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes   
+Incipit: 
+
+Print Number: 698 
+Composer: Dowland, John (1563--1626)  
+Title: Flow, my tears (Lacrimae) 
+Genre: alto and continuo 
+Key: a 
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes  
+Incipit: 
+
+Print Number: 699 
+Composer: Dowland, John (1563--1626) 
+Title: Lachrimae Antiquae 
+Genre: orchestra 
+Key: a 
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes  
+Incipit: 
+
+Print Number: 700 
+Composer: Glass, Philipp 
+Title: Metamorphosis Two 
+Genre: piano 
+Key: 
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes  
+Incipit: 
+
+Print Number: 701
+Composer: Cimarosa, Domenico (1749--1801) 
+Title: Sonata 
+Genre: piano 
+Key: g 
+Composition Year: 
+Publication Year: 
+Edition: cadenza.ru 
+Editor: 
+Voice 1: 
+Partiture: yes  
+Incipit: 
+
+Print Number: 702
+Composer: Krebs, Johann Ludwig (1713--1780) 
+Title: Bourré I & II 
+Genre: harpsichord  
+Key: a & A
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 703 
+Composer: Bach, Johann Sebastian (1685--1750)  
+Title: Bourrée 
+Genre: harpsichord  
+Key: a
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 704
+Composer: Purcell, Henry (1659--1695) 
+Title: Lied; Rigadoon; Iers lied 
+Genre: harpsichord 
+Key: C; C; e 
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 705 
+Composer: Händel, Georg Friedrich (1685--1759) 
+Title: Sonatina 
+Genre: harpsichord 
+Key: G 
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes  
+Incipit: 
+
+Print Number: 706
+Composer: Dandrieu, Jean François (1682--1738) 
+Title: Rondeau 
+Genre: harpsichord  
+Key: D
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 707 
+Composer: Attaignant, Pierre (1494--1551/2) 
+Title: Gaillarde; Saltarello 
+Genre: harpsichord 
+Key: F; F
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes  
+Incipit: 
+
+Print Number: 708
+Composer: Fischer, Johann Kasper Ferdinand 
+Title: Chaconne 
+Genre: hapsichord 
+Key: a 
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes  
+Incipit: 
+
+Print Number: 709
+Composer: Pachelbel, Johann (1653--1706) 
+Title: Fuga 
+Genre: harpsichord 
+Key: C 
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes  
+Incipit: 
+
+Print Number: 710 
+Composer: Hotteterre, Jacques Martin 
+Title: Sonate II op. III
+Genre: triosonata for 2 dessus and continuo 
+Key: D 
+Composition Year: 
+Publication Year: 
+Edition: baroquemusic.it 
+Editor: 
+Voice 1: 
+Partiture: yes  
+Incipit: 
+
+Print Number: 711
+Composer: Hotteterre, Jacques Martin 
+Title: Sonate II op. III
+Genre: triosonata for 2 dessus and continuo
+Key: D 
+Composition Year: 
+Publication Year: 
+Edition: facsimile 
+Editor: 
+Voice 1: basse  
+Partiture: no 
+Incipit: 
+
+Print Number: 712
+Composer: Couperin, François (1668--1733) 
+Title: Quatrième Prélude from L'Art de toucher le Clavecin (1716) 
+Genre: harpsichord  
+Key: D
+Composition Year: 
+Publication Year: 2005
+Edition: Les Éditions Outremontaises
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 713
+Composer: 
+Title: Sonata I
+Genre: sonata for violin and continuo, continuo example 
+Key: d 
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 714
+Composer: 
+Title: Leçons Chantantes en ut 3ce Majeure 
+Genre: continuo example 
+Key: C 
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: continuo  
+Partiture: 
+Incipit: 
+
+Print Number: 715 
+Composer: 
+Title: Výčitky/Vorwurfsvoll/Les Reproches op. 57 č. 3
+Genre: piano 
+Key: a 
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 716
+Composer: Händel, Georg Friedrich 
+Title: Allemande; Chaconne 
+Genre: piano 
+Key: a; D
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 717
+Composer: Händel, Georg Friedrich 
+Title: Fughetta 
+Genre: piano 
+Key: C 
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 718
+Composer: Heller, Stephen  
+Title: Otčině/An die Heimat/A ma patrie op. 47 č. 2
+Genre: piano 
+Key: C
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 719
+Composer: Mozart, Wolfgang Amadeus 
+Title: Fantaisie in d (Fragment) KV397 
+Genre: piano 
+Key: d 
+Composition Year: 1782
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: 
+Incipit: 
+
+Print Number: 720 
+Composer: Offenbach, Jacques 
+Title: Waltz from operette La belle Hélène 
+Genre: piano 
+Key: F
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes  
+Incipit: 
+Print Number: 721
+Composer: REM
+Title: Losing my religion 
+Genre: piano 
+Key: a 
+Composition Year: 
+Publication Year: 
+Edition: my-piano 
+Editor: 
+Voice 1: 
+Partiture: yes  
+Incipit: 
+
+Print Number: 722
+Composer: Hinkel, Volker/Freudenthaler, Peter 
+Title: Lemon Tree/Fool's Garden 
+Genre: piano 
+Key: e 
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes  
+Incipit: 
+
+Print Number: 727
+Composer: Czerny, Carl 
+Title: Sechs Grosse Chöre von G. F. Händel  
+Genre: four hand piano, arrangement  
+Key: G
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes  
+Incipit: 
+
+Print Number: 728
+Composer: Telemann, Georg Philipp 
+Title: Ach Herr, strafe mich nicht, Psalm 6, TVWV7:2
+Genre: cantate for soprano (tenor), oboe (d'amore), violin and continuo 
+Key: a
+Composition Year: 
+Publication Year: 1987/1992 
+Edition: urtext Carus-Verlag
+Editor: Klaus Hofmann 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 729
+Composer: Bach, Johann Sebastian 
+Title: Gott, wir danken deiner Güte BWV193/3 
+Genre: cantate, oboe (incomplete)
+Key: G
+Composition Year: 
+Publication Year: 1978
+Edition: Musica Rara
+Editor: 
+Voice 1: oboe  
+Partiture: no 
+Incipit: 
+
+Print Number: 730 
+Composer: Bach, Johann Sebastian 
+Title: Nun, du wirst mein Gewissen stillen BWV78/6
+Genre: cantate, oboe (incomplete)
+Key: g 
+Composition Year: 
+Publication Year: 1978
+Edition: Musica Rara
+Editor: 
+Voice 1: oboe 
+Partiture: no 
+Incipit: 
+
+Print Number: 731
+Composer: Bach, Johann Sebastian 
+Title: Quoniam tu solus sanctus BWV236/5
+Genre: mass, oboe (incomplete)
+Key: e 
+Composition Year: 
+Publication Year: 1978
+Edition: Musica Rara 
+Editor: 
+Voice 1: oboe  
+Partiture: no 
+Incipit: 
+
+Print Number: 732 
+Composer: Bach, Johann Sebastian 
+Title: Gott versorget, alles Leben BWV187/5
+Genre: mass, oboe (incomplete)
+Key: c 
+Composition Year: 
+Publication Year: 1978 
+Edition: Musica Rara  
+Editor: 
+Voice 1: oboe  
+Partiture: no 
+Incipit: 
+
+Print Number: 733
+Composer: Bach, Johann Sebastian 
+Title: Qui tollis peccata mundi, BWV233/4
+Genre: mass, oboe (incomplete)
+Key: g 
+Composition Year: 
+Publication Year: 1978
+Edition: Musica Rara 
+Editor: 
+Voice 1: 
+Partiture: no  
+Incipit: 
+
+Print Number: 734 
+Composer: Bach, Johann Sebastian 
+Title: Dein Leib, das Manna meiner Seele BWV246/13
+Genre: cantate, oboe (incomplete)
+Key: Bes 
+Composition Year: 
+Publication Year: 1978 
+Edition: Musica Rara  
+Editor: 
+Voice 1: oboe 
+Partiture: no  
+Incipit: 
+
+Print Number: 735
+Composer: Bach, Johann Sebastian 
+Title: Mein Jesu soll mein alles sein, BWV75/3
+Genre: cantate, oboe (incomplete)
+Key: G 
+Composition Year: 
+Publication Year: 1978
+Edition: Musica Rara 
+Editor: 
+Voice 1: oboe  
+Partiture: no 
+Incipit: 
+
+Print Number: 736
+Composer: Bach, Johann Sebastian 
+Title: Ich habe meine Zuversicht, BWV188/1
+Genre: cantate, oboe (incomplete)
+Key: F
+Composition Year: 
+Publication Year: 1978
+Edition: Musica Rara 
+Editor: 
+Voice 1: oboe  
+Partiture: no 
+Incipit: 
+
+Print Number: 737
+Composer: Bach, Johann Sebastian 
+Title: Qui tollis peccata mundi 
+Genre: mass, oboe (incomplete)
+Key: c 
+Composition Year: 
+Publication Year: 1978
+Edition: Musica Rara  
+Editor: 
+Voice 1: oboe 
+Partiture: no 
+Incipit: 
+
+
+Print Number: 738
+Composer: Bach, Johann Sebastian 
+Title: Ich will an den Himmel denken 
+Genre: cantate, oboe (incomplete) 
+Key: g 
+Composition Year: 
+Publication Year: 1978
+Edition: Musica Rara 
+Editor: 
+Voice 1: oboe  
+Partiture: no 
+Incipit: 
+
+Print Number: 739
+Composer: Couperin, Louis 
+Title: Prelude de Mons. Couperin 
+Genre: harpsichord 
+Key: g
+Composition Year: 
+Publication Year: 
+Edition: manuscript  
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 740
+Composer: Milde, Ludvík 
+Title: Concert studies op. 26
+Genre: etudes, bassoon (incomplete)
+Key:
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 741
+Composer: Monteverdi, Claudio 
+Title: Sancta Maria a 2 e BC 
+Genre: aria for 2 voices and continuo 
+Key: d 
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes  
+Incipit: 
+
+Print Number: 742
+Composer: Bach, Johann Sebastian 
+Title: Wer nur den lieben Gott lässt walten BWV93/6
+Genre: cantate (incomplete) for soprano, oboe and continuo 
+Key: g
+Composition Year: 
+Publication Year: 2014 
+Edition: bachsoboe.de 
+Editor: Markus Müller
+Voice 1: oboe 1
+Partiture: yes  
+Incipit: 
+
+Print Number: 743
+Composer: Bach, Johann Sebastian 
+Title: Was Gott tut, das ist wohlgetan BWV98/3
+Genre: cantate (incomplete) for soprano, oboe and continuo 
+Key: c 
+Composition Year: 
+Publication Year: 2014
+Edition: bachsoboe.de
+Editor: Markus Müller
+Voice 1: oboe 1
+Partiture: yes 
+Incipit: 
+
+Print Number: 744
+Composer: Bach, Johann Sebastian 
+Title: Concerto in F 
+Genre: oboe concerto 
+Key: F
+Composition Year: 
+Publication Year: 1981 
+Edition: Nova Music
+Editor: R. P. Block
+Voice 1: oboe solo 
+Voice 2: piano reduction
+Partiture: no
+Incipit: 
+
+Print Number: 745
+Composer: Bach, Johann Sebastian 
+Title: Partita g minor for oboe solo (from BWV1013)
+Genre: arrangement oboe solo 
+Key: g 
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: Hagen Wangenheim 
+Voice 1: 
+Partiture: yes  
+Incipit: 
+
+Print Number: 746
+Composer: Kuhlau, F
+Title: Sechs kleine Variationen über ein oesterreichisches Volkslied 
+Genre: piano 
+Key: G
+Composition Year: 
+Publication Year: 
+Edition: Litolff 
+Editor: 
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 747 
+Composer: Couperin, François 
+Title: Concert Instrumental sous le titre d'Apotheose 
+Genre: trio 
+Key: g
+Composition Year: 
+Publication Year: 1725
+Edition: facsimile
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 748 
+Composer: Albinoni, Tommaso 
+Title: Concerto per l'Oboe op. VII no. 3
+Genre: oboe concerto 
+Key: Bes 
+Composition Year: 
+Publication Year: 1948
+Edition: Hawkes & Son 
+Editor: Bernhard Paumgartner 
+Voice 1: oboe concertante
+Partiture: no
+Incipit: 
+
+Print Number: 749
+Composer: Albinoni, Tommaso 
+Title: Concerto VI op. 7
+Genre: oboe concerto 
+Key: D 
+Composition Year: ca. 1715
+Publication Year: 
+Edition: facsimile
+Editor: 
+Voice 1: hautbois primo  
+Partiture: no 
+Incipit: 
+
+Print Number: 750
+Composer: Dandrieu 
+Title: Principes d'Accompagnement du Clavecin (incomplete)
+Genre: continuo treatise 
+Key:
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 751
+Composer: Schäfer, Christian
+Title: Sight reading Exercises, Part I, op. 45
+Genre: piano etudes 
+Key:
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 752
+Composer: Czerny, Carl
+Title: 160 Kurze Übungen, op. 821
+Genre: piano etudes 
+Key:
+Composition Year: 
+Publication Year: 1920 
+Edition: Peters
+Editor: 
+Voice 1: 
+Partiture: 
+Incipit: 
+
+Print Number: 753
+Composer: Zelenka, Jan Dismas 
+Title: Sonata VI
+Genre: quartet 2 oboes, bassoon and continuo 
+Key: c 
+Composition Year: 
+Publication Year: 1955
+Edition: Hortus musicus Bärenreiter
+Editor: 
+Voice 1: oboe 1
+Partiture: no
+Incipit: 
+
+Print Number: 754
+Composer: Bach, Johann Sebastian 
+Title: Polonéza (Knižočka Anny Magdalény Bachovej, no. 16)
+Genre: piano 
+Key: d 
+Composition Year: 
+Publication Year: 
+Edition: modern  
+Editor: 
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 755
+Composer: Bach, Johann Sebastian 
+Title: Malé prelúdiá no. 3, BWV927
+Genre: piano
+Key: F
+Composition Year: 
+Publication Year: 
+Edition: modern
+Editor: 
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 756
+Composer: Czerny, Carl 
+Title: Etudes no. 6--14
+Genre: piano, etudes  
+Key: 
+Composition Year: 
+Publication Year: 
+Edition: Edition Peters
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 757
+Composer: Lemoine, Henri 
+Title: Allegretto 
+Genre: piano etudes 
+Key: C
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 758
+Composer: Unknown
+Title: Allegro legiero 
+Genre: piano etudes 
+Key: C
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 759
+Composer: Bach, Johann Sebastian 
+Title: Christmas oratorio, recitativo no. 61
+Genre: recitativo tenor, 2 oboe d'amore and continuo
+Key: D
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 760
+Composer: Bach, Johann Sebastian 
+Title: Christmas oratorio, recitativo no. 3
+Genre: recitativo alto, 2 oboe d'amore and continuo 
+Key: A
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 761
+Composer: Duvernoy, Jean Baptiste
+Title: Allegretto
+Genre: piano etudes 
+Key: C
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 762
+Composer: Lemoine, Henri 
+Title: Allegretto 
+Genre: piano etudes 
+Key: C
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 763
+Composer: Petzold, Chr; Anonymous
+Title: Menuet, BWV Anh. 114; Menuet
+Genre: piano 
+Key: G; F
+Composition Year: 
+Publication Year: 
+Edition: modern russian  
+Editor: 
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 764
+Composer: Anonymous 
+Title: Menuet, BWV Anh. 132
+Genre: piano
+Key: d
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 765
+Composer: Anonymous
+Title: Polonaise BWV Anh. 119
+Genre: piano
+Key: g
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 766
+Composer: Schumann, Robert 
+Title: Wilder Reiter from Album for children
+Genre: piano
+Key: a
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 767
+Composer: Unknown 
+Title: Auf dem See
+Genre: piano
+Key: D
+Composition Year: 
+Publication Year: 
+Edition: Edition Peters
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 768
+Composer: Unknown 
+Title: Nemocná loutka, Die Kranke Puppe
+Genre: piano
+Key: cis
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 769
+Composer: Unknown  
+Title: Allegro moderato 
+Genre: piano
+Key: F
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 770 
+Composer: Unknown
+Title: Molto vivace energico 
+Genre: piano etudes
+Key: C
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 771 
+Composer: Unknown
+Title: Allegro; Molto Allegro
+Genre: piano etudes 
+Key: F
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 772
+Composer: Bach, Johann Sebastian 
+Title: Dvojhlasné invencie, trojhlasné invencie
+Genre: harpsichord 
+Key: 
+Composition Year: 
+Publication Year: 1977
+Edition: Opus
+Editor: Vilém Kurz 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 773
+Composer: Bach, Johann Sebastian 
+Title: Malé prelúdiá a Fugety 
+Genre: harpsichord 
+Key:
+Composition Year: 
+Publication Year: 1975
+Edition: Opus 
+Editor: Vilém Kurz 
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 774
+Composer: Šurin, Stanislav
+Title: Deux chansons élégiaques pour chant et piano 
+Genre: soprano and piano
+Key:
+Composition Year: 
+Publication Year: 2013
+Edition: Tribus Musicae 
+Editor: 
+Voice 1: 
+Partiture: 
+Incipit: 
+
+Print Number: 775
+Composer: Mozart, Wolfgang Amadeus 
+Title: Concerto KV191
+Genre: bassoon concerto 
+Key: Bes 
+Composition Year: 
+Publication Year: 
+Edition: Breitkopf 
+Editor: H. Kling
+Voice 1: 
+Voice 2: piano reduction
+Partiture: no
+Incipit: 
+
+Print Number: 776
+Composer: Various
+Title: Škola hry na altovou zobcovou flétnu, první díl
+Genre: recorder etudes
+Key:
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: Daniel, Ladislav 
+Voice 1: 
+Partiture: 
+Incipit: 
+
+Print Number: 777
+Composer: Bach, Johann Sebastian
+Title: Sechs Partiten 
+Genre: harpsichord 
+Key:
+Composition Year: 1731
+Publication Year: 1979
+Edition: urtext, Henle Verlag
+Editor: Rudolf Steglich
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 778
+Composer: Czerny, Carl
+Title: Škola zběhlosti, op. 299 sešit 1
+Genre: piano etudes 
+Key:
+Composition Year: 
+Publication Year: 1921
+Edition: Mojmír Urbánek
+Editor: K. Hoffmeister
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 779
+Composer: Jirásek, Ivo
+Title: Tanečky a písničky
+Genre: wind instrument and piano
+Key:
+Composition Year: 1986
+Publication Year: 1989 
+Edition: Panton
+Editor: 
+Voice 1: solo
+Partiture: yes
+Incipit: 
+
+Print Number: 780
+Composer: Musorgskij, Modest
+Title: Obrázky z výstavy
+Genre: piano
+Key:
+Composition Year: 
+Publication Year: 1951
+Edition: Orbis
+Editor: Holzknecht, Václav
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 781
+Composer: Čajkovskij, Piotr
+Title: Album pre mládež op. 39
+Genre: piano
+Key:
+Composition Year: 
+Publication Year: 1965
+Edition: Štátne hudobné vydavateľstvo
+Editor: Kaprál, V.
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 782
+Composer: Various 
+Title: Klavírna škola pre začiatočníkov 
+Genre: piano etudes
+Key:
+Composition Year: 
+Publication Year: 1971
+Edition: Bärenreiter 
+Editor: Böhmová, Z., Grünfeldová, A., Sarauer, A.
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 783
+Composer: Bach, Johann Sebastian
+Title: Es ist euch gut, dass ich hingehe BWV108
+Genre: cantate oboe d'amore, bass, strings, continuo (incomplete)
+Key: A
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: oboe d'amore
+Partiture: yes
+Incipit: 
+
+Print Number: 784
+Composer: Bach, Johann Sebastian 
+Title: Bereitet die Wege, bereitet die Bahn! BWV132/1
+Genre: soprano, oboe d'amore, strings and continuo (incomplete)
+Key: A
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: oboe d'amore (non transposed)
+Partiture: no
+Incipit: 
+
+Print Number: 785 
+Composer: Heinichen, Johann David 
+Title: Sonata a 3 (Seibel 254)
+Genre: triosonate for oboe, viola da gamba and continuo
+Key: Bes
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: oboe
+Partiture: yes (incomplete) 
+Incipit: 
+
+Print Number: 786 
+Composer: Froberger, Johann Jacob 
+Title: Suite 
+Genre: harpsichord  
+Key: C
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 787
+Composer: Froberger, Johann Jacob 
+Title: 2 suites 
+Genre: harpsichord 
+Key: a; d
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 788
+Composer: Froberger, Johann Jacob 
+Title: Suite 
+Genre: harpsichord 
+Key: A
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 789
+Composer: Scarlatti, Domenico 
+Title: Essercizio 1 (Esserciii per Gravicembalo) 
+Genre: harpsichord
+Key: d
+Composition Year: ca 1739, London
+Publication Year: 2006
+Edition: Les Éditions Outremontaises 
+Editor: Gouin, P. 
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 790
+Composer: Blitheman, William 
+Title: In Nomine (no. 50 from Fitzwilliam Virginal Book) 
+Genre: harpsichord 
+Key: d
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 791 
+Composer: Anonymous
+Title: Ecce homo
+Genre: orchestra
+Key: c
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: oboe 1
+Voice 2: oboe 2
+Partiture: no
+Incipit: 
+
+Print Number: 792 
+Composer: Anonymous
+Title: Unermessene Gutthat der Göttlichen Liebe
+Genre: orchestra
+Key: c
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: Oboe Solo
+Partiture: no 
+Incipit: 
+
+Print Number: 793
+Composer: Charpentier, Marc-Antoine 
+Title: Te Deum H146
+Genre: orchestra
+Key: D
+Composition Year: 
+Publication Year: 2004
+Edition: Bärenreiter
+Editor: 
+Voice 1: continuo 
+Partiture: no
+Incipit: 
+
+Print Number: 794 
+Composer: Quantz, Johann Joachim
+Title: Sonata in C major
+Genre: triosonata for recorder, traverso and continuo  
+Key: C
+Composition Year: 
+Publication Year: 1987
+Edition: Hinnenthal Verlag, Kassel
+Editor: 
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 795
+Composer: Mozart, Wolfgang Amadeus
+Title: Mass in C major K. 257
+Genre: orchestra
+Key: C
+Composition Year: 
+Publication Year: 
+Edition: modern, partify
+Editor: 
+Voice 1: oboe 1 & 2
+Partiture: no
+Incipit: 
+
+Print Number: 796
+Composer: Anonym
+Title: Ouvertüre in D (237, Sonsfeld-Sammlung)
+Genre: trumpet, 3 oboes, 2 bassoons
+Key: D
+Composition Year: 
+Publication Year: 2013
+Edition: Musiche Varie
+Editor: Martin Lubenow
+Voice 1: oboe 1
+Voice 3: oboe 3
+Partiture: no
+Incipit: 
+
+Print Number: 797
+Composer: Bach, Johann Sebastian
+Title: Cantata Aus tiefer Not BWV 38/3
+Genre: cantata
+Key: a
+Composition Year: 
+Publication Year: 
+Edition: modern
+Editor: 
+Voice 1: 
+Partiture: yes (incomplete) 
+Incipit: 
+
+Print Number: 798
+Composer: Bach, Johann Sebastian
+Title: Cantata Aus tiefer Not BWV 38
+Genre: cantata
+Key: a
+Composition Year: 
+Publication Year: 2014
+Edition: bachsoboe.de
+Editor: Markus Müller
+Voice 1: 
+Voice 2: oboe 2 (incomplete)
+Partiture: 
+Incipit: 
+
+Print Number: 799
+Composer: Graun, Johann Gottlieb
+Title: Concerto in D major GraunWV Cv:XIII:109
+Genre: concerto oboe d'amore and strings
+Key: D
+Composition Year: 
+Publication Year: 2016
+Edition: 
+Editor: Andreas Czerney
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 800
+Composer: Bach, Johann Sebastian
+Title: aria Ich folge dir gleichfalls (Johannes Passion BWV245)
+Genre: aria soprano, traverso, continuo
+Key: Bes
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 801
+Composer: Telemann, Georg Philipp
+Title: Trio no. 3 (Essercizii musici, TWV42:g5)
+Genre: triosonata oboe violin continuo 
+Key: g
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: Gil Garty
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 802
+Composer: Telemann, Georg Philipp
+Title: Oboe Concerto in c minor TWV51:c1
+Genre: oboe concerto
+Key: c 
+Composition Year: 
+Publication Year: 2016
+Edition: modern urtext
+Editor: Nils Jönsson 
+Voice 1: oboe solo 
+Voice 2: cembalo
+Voice 3: 
+Voice 4: violino secondo
+Voice 5: viola
+Partiture: yes
+Incipit: 
+
+Print Number: 803
+Composer: Morel
+Title: Chaconne en Trio
+Genre: traverso, gamba, continuo
+Key: G
+Composition Year: 
+Publication Year: 2016
+Edition: Les Editions du Héron Mélomane
+Editor: 
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 804
+Composer: Clérambault
+Title: La Magnifique
+Genre: triosonata 2 dessus, continuo
+Key: e
+Composition Year: 
+Publication Year: 
+Edition: modern
+Editor: 
+Voice 1: 
+Partiture: yes (incomplete)
+Incipit: 
+
+Print Number: 805
+Composer: Vivaldi, Antonio
+Title: aria Esurientes from Magnificat no. 6 RV610
+Genre: aria 2 sopranos continuo
+Key: Bes
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 806
+Composer: Bach, Johann Sebastian
+Title: cantata Mit Fried und Freud (BWV125)
+Genre: cantata
+Key: e
+Composition Year: 
+Publication Year: 
+Edition: 
+Editor: 
+Voice 1: corno (incomplete) 
+Partiture: no
+Incipit: 
+
+Print Number: 807 
+Composer: Vivaldi, Antonio
+Title: aria Gelido in ogni vena (from opera Il Farnace)
+Genre: aria soprano, strings, continuo
+Key: f
+Composition Year: 
+Publication Year: 
+Edition: modern
+Editor: 
+Voice 1: violoncello
+Partiture: yes 
+Incipit: 
+
+Print Number: 808
+Composer: Bach, Johann Sebastian
+Title: Sonate G moll BWV1030b
+Genre: transcription sonata oboe obligato harpsichord
+Key: g
+Composition Year: 
+Publication Year: 1972
+Edition: Henry Litolff's Verlag (Peters)
+Editor: Raymond Meylan
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 809
+Composer: Lully, Jean Baptiste
+Title: Pasacaille (from Persée, Acte V)
+Genre: orchestra
+Key:
+Composition Year: 
+Publication Year: 
+Edition: modern transcription of Ch. Ballard edition
+Editor: Luca Albanese
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 810
+Composer: Bull, John
+Title: In Nomine (The Fitzwilliam Virginal Book, no. CXIX)
+Genre: harpsichord solo
+Key: a
+Composition Year: 
+Publication Year: 
+Edition: modern
+Editor: 
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 811
+Composer: Lully, Jean Baptiste
+Title: Air des Espagnol
+Genre: orchestra
+Key: Bes
+Composition Year: 
+Publication Year: 
+Edition: modern 
+Editor: 
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 812
+Composer: Lully, Jean Baptiste
+Title: Gigue Les Genies et les Fées (Prologue, Seconde Entrée from Roland, Suite)
+Genre: orchestra
+Key: d
+Composition Year: 
+Publication Year: 
+Edition: baroquemusic.it 
+Editor: 
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 813
+Composer: Campra, André 
+Title: Forlana (from Le Carnaval de Venise)
+Genre: orchestra
+Key: g
+Composition Year: 1699 
+Publication Year: 2007
+Edition: d'après fond Philidor BNF
+Editor: Marc Lanoiselée
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 814
+Composer: Marais, Marin
+Title: Menuet (92)
+Genre: dessus continuo
+Key: b
+Composition Year: 
+Publication Year: 
+Edition: HL
+Editor: 
+Voice 1: 
+Partiture: yes
+Incipit: 
+
+Print Number: 815
+Composer: Quinault
+Title: Gavotte du Roy
+Genre: 
+Key: g
+Composition Year: 
+Publication Year: 2014
+Edition: Plaisirs de musique 
+Editor: 
+Voice 1: dessus 
+Partiture: no
+Incipit: 
+
+Print Number: 816 
+Composer: Lully, Jean Baptiste 
+Title: Pasacaille (Act V, Armide)
+Genre: orchestra
+Key: g
+Composition Year: 1686 Paris
+Publication Year: 2013
+Edition: modern
+Editor: Allen Garvin
+Voice 1: 
+Partiture: yes 
+Incipit: 
+
+Print Number: 817
+Composer: Campra, André
+Title: La Bretagne (Passe Pied) from Télémaque
+Genre: dessus continuo
+Key: e
+Composition Year: 
+Publication Year: 2013
+Edition: The Brand Fachverlag
+Editor: 
+Voice 1: 
+Partiture: yes
+Incipit: 
+Print Number: 836
+Composer: Mozart, Wolgang Amadeus
+Title: Fra gli amplesi from Cosi fan Tutte no. 29
+Genre: opera
+Key: A
+Composition Year: 
+Publication Year: 
+Edition: modern
+Editor: 
+Voice 1: bassoon 2
+Partiture: no
+Incipit: 
+
+Print Number: 837
+Composer: Mozart, Wolfgang Amadeus
+Title: Se vuol Ballare no. 3 of Scene II Cavatina from Les Noces de Figaro 
+Genre: opera
+Key: F
+Composition Year: 
+Publication Year: 
+Edition: modern
+Editor: 
+Voice 1: bassoon 2
+Partiture: no
+Incipit: 
+
+Print Number: 838 
+Composer: Mozart, Wolfgang Amadeus
+Title: Fin ch'han Dal Vino no. 11 from Don Giovanni
+Genre: opera
+Key: Bes
+Composition Year: 
+Publication Year: 
+Edition: modern
+Editor: 
+Voice 1: bassoon 2
+Partiture: no 
+Incipit: 
