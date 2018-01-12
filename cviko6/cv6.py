@@ -19,7 +19,7 @@ class myHandler(http.server.SimpleHTTPRequestHandler):
         self.send_header('Content-type', 'text/html')
         self.end_headers()
         if self.path == '/':
-            message = "Work Work!"
+            message = "yes!"
         elif self.path == '/file.txt':
             message = "You have requested this useless file. It's misery is broken!"
         self.wfile.write(bytes(message, "utf8"))
